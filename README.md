@@ -12,3 +12,5 @@ A sequence of int number <img src="https://latex.codecogs.com/svg.image?\left<&s
 <div align='center'>
   <img src="https://github.com/mariocuomo/sortChallenge/blob/main/challenge.png" width=700>
 </div>
+
+The critical step is the second. The total cost of the sort depends from the sorting algorithm used.
